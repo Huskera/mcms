@@ -64,7 +64,7 @@ import net.mingsoft.mdiy.util.ParserUtil;
  * 
  * @ClassName: GeneraterAction
  * @Description:TODO 生成器
- * @author: 铭飞开发团队
+ *
  * @date: 2018年1月31日 下午2:52:07
  * 
  * @Copyright: 2018 www.mingsoft.net Inc. All rights reserved.

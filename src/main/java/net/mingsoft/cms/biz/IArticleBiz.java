@@ -34,7 +34,7 @@ import net.mingsoft.mdiy.entity.ContentModelEntity;
  *
  * @ClassName:  IArticleBiz
  * @Description:TODO(文章管理业务处理层 || 继承IBasicBiz业务处理层)   
- * @author: 铭飞开发团队
+ *
  * @date:   2018年1月31日 下午2:53:32   
  *
  * @Copyright: 2018 www.mingsoft.net Inc. All rights reserved.

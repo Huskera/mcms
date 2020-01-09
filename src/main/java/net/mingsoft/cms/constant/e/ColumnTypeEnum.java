@@ -27,7 +27,7 @@ import net.mingsoft.base.constant.e.BaseEnum;
  * 
  * @ClassName:  ColumnTypeEnum   
  * @Description:TODO(文章栏目分类类型)   
- * @author: 铭飞开发团队
+ *
  * @date:   2018年1月31日 下午2:55:18   
  *     
  * @Copyright: 2018 www.mingsoft.net Inc. All rights reserved.

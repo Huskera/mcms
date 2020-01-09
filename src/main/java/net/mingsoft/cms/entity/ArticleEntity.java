@@ -37,7 +37,7 @@ import net.mingsoft.mdiy.util.ParserUtil;
  * 
  * @ClassName:  ArticleEntity   
  * @Description:TODO(文章模块实体类 || 继承BasicEntity实体)   
- * @author: 铭飞开发团队
+ *
  * @date:   2018年1月31日 下午2:55:48   
  *     
  * @Copyright: 2018 www.mingsoft.net Inc. All rights reserved.

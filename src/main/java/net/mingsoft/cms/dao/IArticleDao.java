@@ -36,7 +36,7 @@ import net.mingsoft.base.dao.IBaseDao;
  *
  * @ClassName:  IArticleDao
  * @Description:TODO(文章管理持久化层 || 继承IBaseDao持久化层)   
- * @author: 铭飞开发团队
+ *
  * @date:   2018年1月31日 下午2:55:33   
  *
  * @Copyright: 2018 www.mingsoft.net Inc. All rights reserved.

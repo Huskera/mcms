@@ -60,7 +60,7 @@ import springfox.documentation.annotations.ApiIgnore;
  * 
  * @ClassName:  ArticleAction   
  * @Description:TODO 前段文章控制，如果标签不能满足可以使用这个控制来满足用户的查询文章需求，主要是通过ajax返回json数据格式   
- * @author: 铭飞开发团队
+ *
  * @date:   2018年1月31日 下午2:52:44   
  *     
  * @Copyright: 2018 www.mingsoft.net Inc. All rights reserved.
